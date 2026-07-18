@@ -147,6 +147,6 @@ python test_model.py
 
 ## 👨‍💻 Author
 
-**Asif Sheikh**
+**Asif Shaik**
 
 GitHub: https://github.com/Asif6106
